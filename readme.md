@@ -1,2 +1,3 @@
 # my first code
-# second line
+
+this is me learning git
